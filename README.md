@@ -1,6 +1,8 @@
-# Multiple-Linear-Regression-in-Gretl-Women-s-Workforce-Participation-1990-Census-
+**Title**: Multiple-Linear-Regression-in-Gretl-Women-s-Workforce-Participation-1990-Census-
+**Author**: Reyna Vargas
+**Date of Creation**: June 11, 2016
 
-This study develops a Multiple Linear Regression model using data obtained from Gretl, focusing on the percentage of women aged 16 and older engaged in manual labor, based on 1990 Census data compiled by Luis Cruz. The objective is to identify key socioeconomic and demographic factors that influence women’s participation in manual labor.
+This study develops a Multiple Linear Regression model using data obtained from Gretl, focusing on the percentage of women aged 16 and older engaged in manual labor, based on 1990 Census data compiled by Luis Cruz. The objective is to identify key socioeconomic and demographic factors influencing women’s participation in manual labor.
 
 The regression model initially incorporated various explanatory variables, including female and male median income, education level, unemployment rate, marital status, urban residency, and race. After evaluating statistical significance and model fit, variables such as male income and marital status were excluded to improve the model.
 
